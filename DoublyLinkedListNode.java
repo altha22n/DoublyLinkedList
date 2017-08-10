@@ -24,7 +24,7 @@ public class DoublyLinkedListNode<T> extends LinkedListNode<T> {
 	public void setPrevious (DoublyLinkedListNode<T> DNode){
 		this.previous =  DNode;
 		
-	}
+	} 
 	public void setNext (DoublyLinkedListNode<T> DNode){
 	this.next = DNode;
 		
